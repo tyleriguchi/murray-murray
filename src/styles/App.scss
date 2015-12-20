@@ -1,0 +1,14 @@
+/* Base Application Styles */
+
+@import 'variables';
+@import 'mixins/flex';
+@import 'utils';
+@import 'libs/css-spinners';
+
+@import 'components/murray';
+
+#app {
+  font-family: $font-family;
+  padding-top: 1em;
+  padding-bottom: 3em;
+}

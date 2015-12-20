@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "fillMurray",
+    "style": "scss",
+    "postcss": false
+  }
+}
